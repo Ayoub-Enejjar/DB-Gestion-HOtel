@@ -136,7 +136,7 @@ menu = ["Consulter les réservations", "Consulter les clients", "Consulter les c
 choice = st.sidebar.selectbox("Menu", menu)
 
 st.sidebar.markdown("---")
-st.sidebar.info("Projet Bases de Données MIP S4 - Pr. J.ZAHIR")
+st.sidebar.info("Projet Bases de Données INFS4 - Pr. J.ZAHIR")
 
 if choice == "Consulter les réservations":
     st.subheader("Liste des Réservations")

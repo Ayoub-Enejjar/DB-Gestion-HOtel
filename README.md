@@ -2,6 +2,11 @@
 
 Un système de gestion hôtelière complet développé avec **Streamlit** et **SQLite** pour la gestion des réservations, clients, chambres et hôtels.
 
+## 🎥 Démonstration vidéo
+
+**Vidéo de démonstration complète :**
+https://drive.google.com/file/d/159xs9zBFuiCUNigmXbKR0nP9VHEnzQLJ/view
+
 ## 📋 Table des matières
 
 - [Description du projet](#description-du-projet)
@@ -131,10 +136,6 @@ L'application propose un menu latéral avec les fonctionnalités suivantes :
 - **Type_Chambre** ↔ **Chambre** (1:N)
 - **Reservation** ↔ **Evaluation** (1:1)
 
-## 🎥 Démonstration vidéo
-
-**Vidéo de démonstration complète :**
-https://drive.google.com/file/d/159xs9zBFuiCUNigmXbKR0nP9VHEnzQLJ/view
 
 Cette vidéo présente l'utilisation complète du système, incluant :
 - Navigation dans l'interface
@@ -144,10 +145,9 @@ Cette vidéo présente l'utilisation complète du système, incluant :
 
 ## 👨‍💻 Auteur
 
-**Projet développé par :** [Votre nom]
+**Projet développé par :** [Ayoub CICADA]
 **Cours :** Bases de Données INFS4
 **Professeur :** Pr. J.ZAHIR
-**Institution :** [Nom de l'institution]
 
 ---
 

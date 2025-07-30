@@ -1,5 +1,5 @@
 import sqlite3
-
+#this file is for database_setup
 def create_connection(db_file="gestion_hotel.db"):
     """ Crée une connexion à la base de données SQLite """
     conn = None

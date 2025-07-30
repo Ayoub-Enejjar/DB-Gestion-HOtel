@@ -5,7 +5,6 @@ from datetime import datetime, date
 
 DB_NAME = "gestion_hotel.db"
 
-# --- Fonctions d'interaction avec la base de données ---
 def get_db_connection():
     conn = sqlite3.connect(DB_NAME)
     conn.row_factory = sqlite3.Row # Pour accéder aux colonnes par nom

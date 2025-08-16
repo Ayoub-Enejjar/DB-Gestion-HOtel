@@ -1,6 +1,6 @@
 # 🏨 Système de Gestion Hôtelière
 
-Un système de gestion hôtelière complet développé avec **Streamlit** et **SQLite** pour la gestion des réservations, clients, chambres et hôtels.
+Un système de gestion hôtelière complet développé avec **Streamlit** et **SQLite** pour la gestion des réservations, clients, chambres et Hôtels.
 
 ## 🎥 Démonstration vidéo
 
